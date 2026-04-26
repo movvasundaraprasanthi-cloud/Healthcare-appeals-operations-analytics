@@ -1,0 +1,1 @@
+Load CSV -> standardize dates -> create aging buckets and SLA flags -> save curated dataset -> validate nulls and duplicates

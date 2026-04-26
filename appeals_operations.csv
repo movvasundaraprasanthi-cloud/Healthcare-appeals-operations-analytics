@@ -1,0 +1,521 @@
+appeal_id,received_date,resolved_date,issue_type,priority,plan_type,region,assigned_team,status,turnaround_days,sla_target_days,member_escalation_flag
+A00001,2025-02-26,,Authorization Denial,Standard,Medicaid,NJ,Team B,Open,11,30,1
+A00002,2025-05-03,2025-05-24,Coding Issue,Standard,Commercial,NJ,Team A,Resolved - Upheld,21,30,1
+A00003,2025-05-14,,Authorization Denial,Standard,Medicaid,CA,Team A,Pending Clinical Review,6,30,0
+A00004,2025-01-13,,Eligibility,Standard,Commercial,AZ,Team A,In Review,21,30,1
+A00005,2025-05-09,2025-05-14,Timely Filing,Standard,Medicaid,PA,Team A,Resolved - Upheld,5,30,0
+A00006,2025-05-03,2025-05-19,Duplicate Claim,Standard,Medicaid,FL,Team B,Resolved - Upheld,16,30,1
+A00007,2025-02-03,,Authorization Denial,Expedited,Medicare,PA,Team D,Pending Clinical Review,31,14,0
+A00008,2025-02-17,2025-03-22,Timely Filing,Standard,Medicaid,FL,Team A,Resolved - Upheld,33,30,1
+A00009,2025-04-24,2025-04-26,Coding Issue,Expedited,Medicare,PA,Team A,Resolved - Overturned,2,14,1
+A00010,2025-03-28,2025-04-01,Medical Necessity,Standard,Medicare,AZ,Team B,Resolved - Upheld,4,30,1
+A00011,2025-01-12,2025-02-04,Duplicate Claim,Standard,Medicare,AZ,Team B,Resolved - Upheld,23,30,1
+A00012,2025-05-05,,Authorization Denial,Standard,Medicare,AZ,Team B,In Review,29,30,0
+A00013,2025-03-22,2025-04-02,Medical Necessity,Standard,Commercial,NJ,Team A,Resolved - Overturned,11,30,0
+A00014,2025-02-11,2025-02-13,Medical Necessity,Standard,Commercial,PA,Team C,Closed - Incomplete,2,30,0
+A00015,2025-05-09,2025-06-03,Duplicate Claim,Standard,Medicaid,NJ,Team C,Resolved - Upheld,25,30,1
+A00016,2025-02-13,,Eligibility,Standard,Commercial,AZ,Team C,In Review,19,30,0
+A00017,2025-01-15,2025-01-28,Medical Necessity,Standard,Medicare,PA,Team C,Resolved - Upheld,13,30,0
+A00018,2025-02-19,,Coding Issue,Standard,Medicaid,CA,Team A,Pending Clinical Review,12,30,0
+A00019,2025-04-11,,Duplicate Claim,Standard,Medicare,FL,Team D,Pending Clinical Review,17,30,0
+A00020,2025-05-01,,Eligibility,Standard,Medicare,FL,Team C,Open,20,30,0
+A00021,2025-05-04,2025-05-15,Timely Filing,Standard,Medicaid,TX,Team B,Resolved - Upheld,11,30,1
+A00022,2025-02-24,,Duplicate Claim,Standard,Commercial,NY,Team D,Pending Clinical Review,12,30,1
+A00023,2025-03-15,2025-03-19,Medical Necessity,Standard,Medicaid,AZ,Team C,Resolved - Overturned,4,30,0
+A00024,2025-04-12,,Duplicate Claim,Standard,Medicaid,CA,Team C,In Review,12,30,1
+A00025,2025-04-29,,Duplicate Claim,Standard,Medicare,TX,Team B,Open,12,30,1
+A00026,2025-05-29,,Medical Necessity,Standard,Medicare,NJ,Team A,Pending Clinical Review,1,30,0
+A00027,2025-03-02,2025-03-20,Timely Filing,Standard,Medicaid,AZ,Team D,Closed - Incomplete,18,30,1
+A00028,2025-02-19,,Medical Necessity,Expedited,Medicare,PA,Team A,Open,23,14,1
+A00029,2025-04-13,2025-05-13,Medical Necessity,Standard,Medicaid,AZ,Team B,Resolved - Upheld,30,30,0
+A00030,2025-02-28,,Timely Filing,Standard,Medicare,NY,Team A,Pending Clinical Review,20,30,1
+A00031,2025-02-02,2025-03-02,Coding Issue,Expedited,Medicaid,CA,Team B,Resolved - Overturned,28,14,1
+A00032,2025-05-13,,Eligibility,Standard,Medicaid,TX,Team B,In Review,14,30,1
+A00033,2025-03-30,,Eligibility,Standard,Medicaid,NY,Team D,Open,5,30,0
+A00034,2025-02-01,,Authorization Denial,Standard,Medicare,AZ,Team A,Pending Clinical Review,8,30,1
+A00035,2025-05-27,2025-05-31,Authorization Denial,Standard,Medicare,CA,Team B,Resolved - Overturned,4,30,0
+A00036,2025-01-02,,Medical Necessity,Standard,Medicare,PA,Team C,Open,29,30,1
+A00037,2025-02-02,,Medical Necessity,Standard,Commercial,PA,Team A,Pending Clinical Review,1,30,0
+A00038,2025-03-16,2025-04-12,Coding Issue,Expedited,Commercial,PA,Team D,Resolved - Upheld,27,14,1
+A00039,2025-03-11,2025-04-04,Medical Necessity,Standard,Medicaid,FL,Team A,Resolved - Overturned,24,30,0
+A00040,2025-05-27,2025-06-11,Coding Issue,Expedited,Commercial,NY,Team D,Closed - Incomplete,15,14,1
+A00041,2025-05-03,,Medical Necessity,Standard,Commercial,NJ,Team D,Pending Clinical Review,1,30,0
+A00042,2025-04-18,2025-05-21,Authorization Denial,Standard,Medicaid,NJ,Team D,Resolved - Overturned,33,30,1
+A00043,2025-03-27,2025-04-10,Eligibility,Standard,Medicaid,NY,Team C,Resolved - Upheld,14,30,1
+A00044,2025-03-26,2025-04-13,Medical Necessity,Standard,Medicare,NY,Team B,Resolved - Overturned,18,30,0
+A00045,2025-01-16,,Authorization Denial,Expedited,Commercial,CA,Team A,Open,4,14,1
+A00046,2025-01-22,2025-01-28,Duplicate Claim,Standard,Medicaid,AZ,Team B,Resolved - Overturned,6,30,0
+A00047,2025-01-11,2025-01-18,Timely Filing,Standard,Medicare,AZ,Team D,Resolved - Upheld,7,30,1
+A00048,2025-05-22,,Duplicate Claim,Standard,Medicaid,FL,Team B,In Review,24,30,0
+A00049,2025-03-30,,Medical Necessity,Standard,Medicare,AZ,Team C,Open,6,30,1
+A00050,2025-02-04,,Eligibility,Standard,Medicaid,NY,Team B,Open,34,30,1
+A00051,2025-04-16,,Authorization Denial,Expedited,Commercial,AZ,Team A,Open,28,14,1
+A00052,2025-02-01,2025-03-04,Timely Filing,Expedited,Medicare,AZ,Team B,Resolved - Overturned,31,14,1
+A00053,2025-05-18,2025-05-29,Authorization Denial,Standard,Medicaid,CA,Team C,Resolved - Overturned,11,30,1
+A00054,2025-03-27,2025-04-19,Duplicate Claim,Expedited,Commercial,NY,Team B,Resolved - Upheld,23,14,0
+A00055,2025-03-27,2025-04-19,Coding Issue,Standard,Commercial,CA,Team D,Resolved - Overturned,23,30,0
+A00056,2025-03-18,2025-03-24,Coding Issue,Standard,Medicare,PA,Team A,Resolved - Upheld,6,30,1
+A00057,2025-03-17,,Coding Issue,Expedited,Medicare,PA,Team D,In Review,34,14,1
+A00058,2025-02-27,,Eligibility,Standard,Medicaid,CA,Team A,Open,10,30,1
+A00059,2025-04-24,2025-05-17,Authorization Denial,Expedited,Medicaid,TX,Team D,Closed - Incomplete,23,14,1
+A00060,2025-01-07,2025-02-02,Eligibility,Standard,Medicaid,NJ,Team B,Resolved - Overturned,26,30,0
+A00061,2025-03-05,,Authorization Denial,Standard,Medicare,NY,Team B,Open,2,30,1
+A00062,2025-03-27,,Timely Filing,Standard,Medicare,NJ,Team D,Pending Clinical Review,17,30,0
+A00063,2025-04-13,,Authorization Denial,Expedited,Medicare,FL,Team B,In Review,31,14,0
+A00064,2025-01-03,2025-02-01,Timely Filing,Standard,Medicaid,NJ,Team B,Resolved - Upheld,29,30,0
+A00065,2025-04-10,2025-05-08,Timely Filing,Standard,Commercial,AZ,Team D,Resolved - Upheld,28,30,1
+A00066,2025-03-03,2025-03-27,Medical Necessity,Standard,Medicaid,AZ,Team D,Closed - Incomplete,24,30,0
+A00067,2025-04-29,,Authorization Denial,Standard,Medicaid,NY,Team B,In Review,13,30,0
+A00068,2025-04-20,2025-05-11,Authorization Denial,Standard,Medicaid,NJ,Team D,Resolved - Upheld,21,30,0
+A00069,2025-03-28,2025-04-22,Authorization Denial,Expedited,Medicaid,AZ,Team B,Closed - Incomplete,25,14,1
+A00070,2025-03-25,,Medical Necessity,Standard,Medicare,FL,Team C,Pending Clinical Review,13,30,1
+A00071,2025-05-19,,Coding Issue,Standard,Commercial,NJ,Team B,Pending Clinical Review,6,30,1
+A00072,2025-05-17,,Eligibility,Expedited,Commercial,TX,Team C,Open,3,14,0
+A00073,2025-03-05,,Duplicate Claim,Expedited,Commercial,FL,Team A,Open,25,14,0
+A00074,2025-05-18,2025-06-17,Medical Necessity,Expedited,Medicare,NY,Team B,Resolved - Upheld,30,14,1
+A00075,2025-05-04,2025-05-28,Eligibility,Standard,Commercial,FL,Team B,Closed - Incomplete,24,30,0
+A00076,2025-03-25,,Eligibility,Standard,Commercial,PA,Team C,In Review,34,30,0
+A00077,2025-01-19,,Eligibility,Standard,Medicare,TX,Team B,In Review,15,30,1
+A00078,2025-01-20,2025-01-27,Coding Issue,Standard,Medicaid,AZ,Team C,Closed - Incomplete,7,30,1
+A00079,2025-01-03,,Medical Necessity,Standard,Medicare,FL,Team B,In Review,33,30,0
+A00080,2025-04-02,2025-04-23,Timely Filing,Standard,Medicare,PA,Team D,Resolved - Overturned,21,30,0
+A00081,2025-05-22,2025-06-05,Timely Filing,Standard,Medicare,CA,Team B,Closed - Incomplete,14,30,1
+A00082,2025-01-08,,Timely Filing,Standard,Medicaid,CA,Team A,In Review,21,30,1
+A00083,2025-02-22,2025-03-05,Medical Necessity,Expedited,Medicare,AZ,Team B,Resolved - Upheld,11,14,0
+A00084,2025-04-19,,Medical Necessity,Standard,Medicaid,CA,Team C,In Review,7,30,1
+A00085,2025-04-27,2025-05-18,Coding Issue,Standard,Medicare,AZ,Team C,Closed - Incomplete,21,30,1
+A00086,2025-03-25,,Eligibility,Standard,Medicare,TX,Team B,Pending Clinical Review,1,30,0
+A00087,2025-04-05,,Authorization Denial,Standard,Medicare,AZ,Team D,Open,21,30,0
+A00088,2025-02-22,,Duplicate Claim,Standard,Medicaid,PA,Team B,In Review,20,30,1
+A00089,2025-04-04,,Coding Issue,Standard,Medicare,TX,Team C,In Review,26,30,0
+A00090,2025-03-21,2025-04-01,Eligibility,Expedited,Commercial,CA,Team D,Resolved - Overturned,11,14,1
+A00091,2025-05-12,,Authorization Denial,Expedited,Medicaid,TX,Team C,In Review,13,14,0
+A00092,2025-03-26,2025-04-12,Timely Filing,Standard,Commercial,CA,Team D,Resolved - Upheld,17,30,1
+A00093,2025-05-20,,Eligibility,Standard,Commercial,TX,Team A,Open,25,30,0
+A00094,2025-02-19,2025-02-20,Eligibility,Standard,Medicare,CA,Team D,Resolved - Upheld,1,30,0
+A00095,2025-05-21,,Timely Filing,Standard,Medicare,TX,Team C,In Review,30,30,1
+A00096,2025-04-28,,Eligibility,Standard,Medicare,AZ,Team C,In Review,33,30,1
+A00097,2025-03-24,,Eligibility,Standard,Medicaid,PA,Team B,Open,34,30,1
+A00098,2025-03-19,2025-03-29,Authorization Denial,Expedited,Medicare,TX,Team D,Resolved - Upheld,10,14,1
+A00099,2025-01-31,2025-02-18,Authorization Denial,Standard,Medicaid,NY,Team C,Closed - Incomplete,18,30,0
+A00100,2025-03-28,2025-04-12,Duplicate Claim,Standard,Medicaid,PA,Team D,Closed - Incomplete,15,30,1
+A00101,2025-03-10,,Timely Filing,Expedited,Medicaid,FL,Team B,In Review,27,14,1
+A00102,2025-02-10,,Medical Necessity,Standard,Commercial,AZ,Team D,Pending Clinical Review,16,30,0
+A00103,2025-03-03,,Duplicate Claim,Standard,Medicare,NJ,Team C,In Review,15,30,0
+A00104,2025-02-09,,Eligibility,Standard,Commercial,AZ,Team A,Pending Clinical Review,29,30,0
+A00105,2025-03-20,2025-03-25,Duplicate Claim,Standard,Medicaid,FL,Team B,Resolved - Overturned,5,30,1
+A00106,2025-02-25,2025-03-28,Medical Necessity,Expedited,Medicare,CA,Team B,Resolved - Upheld,31,14,0
+A00107,2025-04-20,,Duplicate Claim,Standard,Commercial,PA,Team C,Pending Clinical Review,18,30,1
+A00108,2025-05-31,2025-06-06,Coding Issue,Expedited,Commercial,TX,Team B,Resolved - Upheld,6,14,1
+A00109,2025-05-12,,Eligibility,Standard,Medicaid,CA,Team A,Open,5,30,1
+A00110,2025-01-23,2025-02-24,Eligibility,Standard,Medicare,NY,Team C,Closed - Incomplete,32,30,1
+A00111,2025-01-15,,Coding Issue,Standard,Medicare,AZ,Team A,Open,13,30,1
+A00112,2025-01-06,2025-01-23,Medical Necessity,Expedited,Medicaid,AZ,Team D,Resolved - Overturned,17,14,0
+A00113,2025-05-07,,Timely Filing,Standard,Commercial,TX,Team C,Open,2,30,1
+A00114,2025-05-25,2025-06-26,Medical Necessity,Expedited,Medicare,PA,Team C,Closed - Incomplete,32,14,0
+A00115,2025-01-15,2025-02-05,Coding Issue,Standard,Medicaid,CA,Team C,Resolved - Overturned,21,30,0
+A00116,2025-04-03,,Medical Necessity,Expedited,Medicaid,FL,Team D,In Review,15,14,1
+A00117,2025-05-02,,Eligibility,Expedited,Medicaid,AZ,Team B,In Review,8,14,1
+A00118,2025-03-19,,Coding Issue,Standard,Medicare,NJ,Team A,In Review,23,30,0
+A00119,2025-01-07,2025-01-14,Coding Issue,Standard,Medicaid,AZ,Team C,Resolved - Overturned,7,30,1
+A00120,2025-01-10,,Timely Filing,Expedited,Medicaid,TX,Team D,Pending Clinical Review,32,14,0
+A00121,2025-05-03,2025-05-20,Eligibility,Standard,Medicaid,CA,Team D,Resolved - Overturned,17,30,0
+A00122,2025-01-08,,Coding Issue,Standard,Medicaid,CA,Team C,Pending Clinical Review,8,30,1
+A00123,2025-05-15,,Eligibility,Standard,Commercial,PA,Team D,Open,21,30,1
+A00124,2025-04-16,2025-05-15,Coding Issue,Standard,Medicare,CA,Team C,Resolved - Overturned,29,30,0
+A00125,2025-03-17,,Eligibility,Expedited,Commercial,FL,Team C,In Review,33,14,0
+A00126,2025-04-19,2025-05-11,Authorization Denial,Standard,Medicaid,TX,Team A,Closed - Incomplete,22,30,1
+A00127,2025-02-25,2025-03-02,Eligibility,Expedited,Medicaid,NY,Team C,Resolved - Upheld,5,14,0
+A00128,2025-01-09,,Timely Filing,Standard,Medicaid,PA,Team B,Open,15,30,1
+A00129,2025-03-11,2025-04-10,Coding Issue,Standard,Commercial,NY,Team C,Resolved - Upheld,30,30,1
+A00130,2025-04-07,2025-05-11,Timely Filing,Standard,Medicare,FL,Team A,Resolved - Upheld,34,30,1
+A00131,2025-01-08,,Timely Filing,Standard,Medicare,CA,Team A,In Review,3,30,1
+A00132,2025-02-25,,Timely Filing,Expedited,Medicare,TX,Team D,In Review,32,14,0
+A00133,2025-05-30,2025-06-04,Coding Issue,Standard,Commercial,CA,Team C,Resolved - Overturned,5,30,0
+A00134,2025-01-11,2025-01-27,Coding Issue,Standard,Commercial,AZ,Team C,Resolved - Overturned,16,30,1
+A00135,2025-01-06,,Duplicate Claim,Expedited,Commercial,PA,Team C,Open,26,14,1
+A00136,2025-03-04,,Eligibility,Standard,Commercial,PA,Team A,In Review,4,30,1
+A00137,2025-01-09,2025-02-02,Duplicate Claim,Expedited,Commercial,NJ,Team D,Resolved - Overturned,24,14,0
+A00138,2025-01-16,2025-02-05,Duplicate Claim,Standard,Medicaid,NY,Team B,Resolved - Upheld,20,30,0
+A00139,2025-05-30,,Duplicate Claim,Standard,Medicaid,CA,Team D,Pending Clinical Review,7,30,0
+A00140,2025-01-28,2025-01-31,Duplicate Claim,Standard,Medicare,AZ,Team D,Resolved - Upheld,3,30,0
+A00141,2025-02-17,2025-02-22,Medical Necessity,Standard,Medicare,FL,Team C,Closed - Incomplete,5,30,1
+A00142,2025-01-28,2025-02-25,Medical Necessity,Standard,Commercial,NY,Team A,Closed - Incomplete,28,30,0
+A00143,2025-04-10,,Coding Issue,Standard,Medicaid,NY,Team C,Open,10,30,1
+A00144,2025-03-24,2025-03-31,Duplicate Claim,Expedited,Medicaid,FL,Team C,Resolved - Overturned,7,14,0
+A00145,2025-01-03,,Eligibility,Expedited,Medicaid,TX,Team B,Open,18,14,0
+A00146,2025-01-06,,Coding Issue,Standard,Commercial,TX,Team B,Open,11,30,1
+A00147,2025-02-24,2025-03-15,Coding Issue,Standard,Medicare,PA,Team A,Resolved - Overturned,19,30,1
+A00148,2025-05-22,2025-06-09,Duplicate Claim,Standard,Medicaid,FL,Team C,Closed - Incomplete,18,30,0
+A00149,2025-02-27,,Eligibility,Standard,Commercial,NY,Team B,Open,21,30,1
+A00150,2025-02-26,2025-03-20,Authorization Denial,Standard,Medicaid,CA,Team D,Resolved - Upheld,22,30,1
+A00151,2025-02-03,2025-02-13,Authorization Denial,Standard,Medicare,AZ,Team C,Closed - Incomplete,10,30,1
+A00152,2025-05-31,,Medical Necessity,Standard,Medicaid,AZ,Team D,Open,34,30,0
+A00153,2025-02-25,2025-03-21,Timely Filing,Standard,Commercial,NY,Team D,Resolved - Upheld,24,30,1
+A00154,2025-05-31,2025-06-06,Coding Issue,Standard,Medicare,TX,Team A,Resolved - Overturned,6,30,1
+A00155,2025-02-07,,Duplicate Claim,Standard,Commercial,CA,Team A,Open,15,30,1
+A00156,2025-02-12,2025-03-03,Eligibility,Standard,Commercial,TX,Team A,Resolved - Upheld,19,30,0
+A00157,2025-03-07,2025-03-13,Eligibility,Expedited,Medicaid,CA,Team B,Resolved - Upheld,6,14,1
+A00158,2025-04-03,,Coding Issue,Standard,Commercial,AZ,Team A,Pending Clinical Review,1,30,1
+A00159,2025-02-10,2025-02-21,Duplicate Claim,Expedited,Medicare,NJ,Team A,Closed - Incomplete,11,14,1
+A00160,2025-05-04,2025-05-25,Coding Issue,Standard,Medicaid,FL,Team D,Closed - Incomplete,21,30,1
+A00161,2025-01-23,2025-01-29,Eligibility,Standard,Commercial,NY,Team D,Resolved - Upheld,6,30,1
+A00162,2025-01-07,2025-01-13,Authorization Denial,Standard,Medicare,FL,Team D,Closed - Incomplete,6,30,1
+A00163,2025-02-04,,Medical Necessity,Standard,Medicare,NJ,Team D,Open,9,30,1
+A00164,2025-04-29,2025-05-25,Coding Issue,Expedited,Medicare,AZ,Team D,Closed - Incomplete,26,14,0
+A00165,2025-05-25,2025-06-24,Authorization Denial,Standard,Medicaid,NY,Team D,Resolved - Upheld,30,30,0
+A00166,2025-05-07,,Coding Issue,Standard,Medicaid,NJ,Team A,Open,16,30,1
+A00167,2025-04-02,2025-04-24,Coding Issue,Standard,Commercial,CA,Team A,Closed - Incomplete,22,30,1
+A00168,2025-03-18,,Coding Issue,Standard,Commercial,NJ,Team D,Pending Clinical Review,34,30,0
+A00169,2025-01-16,2025-02-14,Eligibility,Standard,Medicaid,CA,Team C,Closed - Incomplete,29,30,1
+A00170,2025-05-13,,Medical Necessity,Standard,Medicaid,AZ,Team A,Open,22,30,1
+A00171,2025-04-19,,Eligibility,Standard,Medicaid,TX,Team D,In Review,6,30,0
+A00172,2025-03-02,,Eligibility,Standard,Medicare,AZ,Team C,Open,34,30,0
+A00173,2025-03-20,,Duplicate Claim,Standard,Commercial,NJ,Team D,In Review,11,30,1
+A00174,2025-02-03,,Medical Necessity,Standard,Medicare,CA,Team A,In Review,24,30,1
+A00175,2025-05-12,,Coding Issue,Standard,Medicare,AZ,Team C,Open,9,30,1
+A00176,2025-04-13,,Medical Necessity,Expedited,Medicaid,AZ,Team C,In Review,34,14,1
+A00177,2025-01-06,2025-02-06,Duplicate Claim,Standard,Commercial,FL,Team B,Resolved - Upheld,31,30,0
+A00178,2025-03-13,2025-03-28,Eligibility,Standard,Medicaid,NY,Team A,Resolved - Upheld,15,30,1
+A00179,2025-05-20,,Duplicate Claim,Standard,Commercial,NJ,Team B,Open,31,30,1
+A00180,2025-05-07,2025-05-18,Eligibility,Standard,Medicare,PA,Team D,Resolved - Overturned,11,30,0
+A00181,2025-05-31,2025-06-09,Eligibility,Standard,Medicare,TX,Team D,Resolved - Overturned,9,30,0
+A00182,2025-03-24,2025-03-26,Eligibility,Standard,Medicare,FL,Team D,Closed - Incomplete,2,30,0
+A00183,2025-03-23,2025-04-05,Authorization Denial,Standard,Commercial,CA,Team A,Resolved - Upheld,13,30,1
+A00184,2025-04-03,2025-04-18,Medical Necessity,Standard,Commercial,PA,Team D,Resolved - Overturned,15,30,1
+A00185,2025-03-24,,Duplicate Claim,Expedited,Medicaid,AZ,Team B,Open,32,14,1
+A00186,2025-02-23,2025-02-24,Medical Necessity,Expedited,Commercial,TX,Team D,Resolved - Overturned,1,14,1
+A00187,2025-05-15,,Authorization Denial,Standard,Commercial,AZ,Team A,Open,24,30,0
+A00188,2025-03-13,,Medical Necessity,Standard,Commercial,TX,Team C,In Review,32,30,1
+A00189,2025-04-07,2025-04-09,Authorization Denial,Standard,Medicare,PA,Team C,Resolved - Overturned,2,30,1
+A00190,2025-01-09,,Eligibility,Expedited,Commercial,AZ,Team C,Open,3,14,0
+A00191,2025-01-16,2025-01-18,Timely Filing,Standard,Commercial,TX,Team D,Resolved - Overturned,2,30,0
+A00192,2025-05-28,,Medical Necessity,Expedited,Commercial,CA,Team A,Open,8,14,1
+A00193,2025-05-20,2025-06-22,Coding Issue,Expedited,Commercial,AZ,Team A,Closed - Incomplete,33,14,0
+A00194,2025-02-05,,Authorization Denial,Expedited,Medicaid,NY,Team C,In Review,14,14,0
+A00195,2025-01-04,2025-01-07,Duplicate Claim,Standard,Commercial,FL,Team D,Resolved - Upheld,3,30,1
+A00196,2025-04-22,,Coding Issue,Standard,Medicaid,CA,Team B,Pending Clinical Review,34,30,0
+A00197,2025-02-25,,Duplicate Claim,Expedited,Medicaid,CA,Team D,In Review,11,14,0
+A00198,2025-04-30,2025-06-01,Eligibility,Standard,Commercial,NY,Team D,Resolved - Upheld,32,30,1
+A00199,2025-01-21,,Eligibility,Standard,Medicaid,TX,Team C,In Review,31,30,1
+A00200,2025-01-23,2025-02-09,Authorization Denial,Standard,Medicaid,PA,Team C,Resolved - Upheld,17,30,0
+A00201,2025-02-05,2025-02-27,Medical Necessity,Standard,Medicare,PA,Team B,Resolved - Upheld,22,30,0
+A00202,2025-03-01,2025-03-12,Duplicate Claim,Standard,Commercial,CA,Team A,Resolved - Overturned,11,30,0
+A00203,2025-03-22,2025-03-31,Duplicate Claim,Standard,Medicare,FL,Team B,Resolved - Overturned,9,30,1
+A00204,2025-04-13,2025-05-13,Duplicate Claim,Standard,Commercial,CA,Team B,Resolved - Overturned,30,30,0
+A00205,2025-01-18,,Timely Filing,Standard,Commercial,AZ,Team C,Pending Clinical Review,26,30,1
+A00206,2025-05-01,,Coding Issue,Standard,Medicaid,CA,Team C,In Review,3,30,0
+A00207,2025-04-12,,Medical Necessity,Standard,Commercial,NY,Team B,In Review,9,30,0
+A00208,2025-05-28,,Eligibility,Standard,Medicaid,AZ,Team D,In Review,33,30,0
+A00209,2025-04-10,2025-04-25,Coding Issue,Expedited,Commercial,TX,Team A,Resolved - Overturned,15,14,1
+A00210,2025-02-01,,Coding Issue,Expedited,Medicaid,NJ,Team C,Pending Clinical Review,7,14,0
+A00211,2025-02-04,,Coding Issue,Standard,Medicaid,PA,Team B,Pending Clinical Review,4,30,0
+A00212,2025-03-06,,Eligibility,Standard,Commercial,NJ,Team C,Open,11,30,1
+A00213,2025-01-17,2025-02-18,Medical Necessity,Standard,Medicaid,PA,Team A,Resolved - Upheld,32,30,1
+A00214,2025-03-02,,Duplicate Claim,Standard,Commercial,NY,Team C,Open,14,30,1
+A00215,2025-02-23,,Authorization Denial,Standard,Commercial,TX,Team B,In Review,7,30,0
+A00216,2025-03-02,,Duplicate Claim,Standard,Medicaid,FL,Team A,Open,28,30,0
+A00217,2025-04-15,2025-05-19,Eligibility,Expedited,Medicare,NY,Team C,Resolved - Overturned,34,14,1
+A00218,2025-01-07,,Eligibility,Standard,Commercial,NJ,Team C,Open,22,30,0
+A00219,2025-03-14,2025-04-13,Authorization Denial,Standard,Medicare,PA,Team D,Closed - Incomplete,30,30,1
+A00220,2025-02-06,2025-03-01,Coding Issue,Standard,Medicare,AZ,Team B,Resolved - Upheld,23,30,0
+A00221,2025-02-12,,Authorization Denial,Standard,Medicare,NY,Team D,Open,34,30,0
+A00222,2025-01-25,2025-02-24,Duplicate Claim,Standard,Commercial,NJ,Team C,Resolved - Overturned,30,30,0
+A00223,2025-03-25,,Eligibility,Expedited,Medicare,NY,Team A,Open,23,14,1
+A00224,2025-01-18,,Eligibility,Standard,Medicare,CA,Team D,Open,22,30,1
+A00225,2025-03-25,2025-04-08,Coding Issue,Standard,Commercial,AZ,Team B,Resolved - Upheld,14,30,1
+A00226,2025-01-14,,Medical Necessity,Standard,Commercial,NJ,Team A,In Review,24,30,0
+A00227,2025-03-15,2025-04-08,Eligibility,Standard,Commercial,AZ,Team B,Resolved - Upheld,24,30,0
+A00228,2025-03-13,,Medical Necessity,Expedited,Medicare,AZ,Team D,Open,19,14,1
+A00229,2025-02-20,2025-02-28,Authorization Denial,Expedited,Commercial,NJ,Team D,Resolved - Upheld,8,14,0
+A00230,2025-01-04,,Timely Filing,Standard,Medicaid,CA,Team A,In Review,30,30,0
+A00231,2025-04-15,2025-04-25,Coding Issue,Expedited,Medicare,FL,Team C,Resolved - Overturned,10,14,0
+A00232,2025-04-04,,Timely Filing,Standard,Medicaid,FL,Team A,Open,13,30,0
+A00233,2025-05-14,,Authorization Denial,Standard,Medicare,CA,Team D,In Review,12,30,0
+A00234,2025-01-27,,Eligibility,Expedited,Medicare,NY,Team A,Open,22,14,1
+A00235,2025-04-02,2025-05-04,Medical Necessity,Standard,Commercial,CA,Team C,Resolved - Overturned,32,30,0
+A00236,2025-03-13,,Eligibility,Standard,Medicare,NY,Team C,Open,8,30,0
+A00237,2025-04-20,,Eligibility,Expedited,Medicaid,CA,Team B,Open,9,14,0
+A00238,2025-02-09,2025-02-18,Authorization Denial,Standard,Commercial,PA,Team D,Closed - Incomplete,9,30,0
+A00239,2025-05-02,2025-06-05,Duplicate Claim,Standard,Commercial,PA,Team B,Resolved - Upheld,34,30,1
+A00240,2025-05-06,2025-06-02,Eligibility,Expedited,Commercial,PA,Team D,Resolved - Upheld,27,14,0
+A00241,2025-02-05,,Timely Filing,Standard,Medicaid,PA,Team B,In Review,4,30,0
+A00242,2025-04-09,,Duplicate Claim,Standard,Medicare,NJ,Team B,Pending Clinical Review,32,30,1
+A00243,2025-05-06,2025-05-15,Coding Issue,Standard,Commercial,FL,Team B,Resolved - Overturned,9,30,0
+A00244,2025-04-21,2025-05-23,Timely Filing,Standard,Medicaid,NJ,Team D,Resolved - Overturned,32,30,0
+A00245,2025-02-13,2025-02-22,Eligibility,Expedited,Medicaid,FL,Team C,Resolved - Upheld,9,14,0
+A00246,2025-05-24,,Timely Filing,Standard,Medicaid,PA,Team B,Open,12,30,0
+A00247,2025-05-08,2025-05-28,Coding Issue,Standard,Commercial,FL,Team D,Resolved - Overturned,20,30,1
+A00248,2025-04-26,2025-05-20,Timely Filing,Expedited,Medicare,TX,Team D,Resolved - Upheld,24,14,0
+A00249,2025-05-09,2025-06-09,Authorization Denial,Expedited,Medicare,PA,Team C,Resolved - Overturned,31,14,0
+A00250,2025-01-15,2025-02-18,Timely Filing,Standard,Commercial,FL,Team C,Closed - Incomplete,34,30,0
+A00251,2025-01-12,,Timely Filing,Standard,Commercial,TX,Team A,Open,26,30,1
+A00252,2025-05-19,2025-06-14,Eligibility,Standard,Commercial,NY,Team A,Resolved - Overturned,26,30,0
+A00253,2025-01-28,2025-02-16,Coding Issue,Standard,Commercial,NJ,Team A,Closed - Incomplete,19,30,1
+A00254,2025-04-26,,Medical Necessity,Standard,Medicare,CA,Team D,Pending Clinical Review,34,30,0
+A00255,2025-03-26,,Authorization Denial,Expedited,Medicare,AZ,Team D,Pending Clinical Review,8,14,1
+A00256,2025-01-03,2025-01-11,Timely Filing,Standard,Medicare,NJ,Team D,Closed - Incomplete,8,30,0
+A00257,2025-01-15,,Timely Filing,Standard,Medicare,NY,Team C,In Review,8,30,1
+A00258,2025-01-05,2025-01-17,Medical Necessity,Standard,Medicaid,TX,Team B,Closed - Incomplete,12,30,0
+A00259,2025-02-25,,Medical Necessity,Standard,Medicaid,TX,Team A,Open,26,30,0
+A00260,2025-02-05,,Authorization Denial,Standard,Medicare,NJ,Team C,In Review,16,30,0
+A00261,2025-01-19,2025-02-06,Duplicate Claim,Expedited,Medicaid,NJ,Team D,Resolved - Overturned,18,14,1
+A00262,2025-03-01,2025-03-24,Timely Filing,Standard,Commercial,AZ,Team B,Resolved - Overturned,23,30,0
+A00263,2025-03-15,2025-04-18,Coding Issue,Standard,Medicare,CA,Team A,Resolved - Upheld,34,30,0
+A00264,2025-05-04,2025-05-09,Eligibility,Standard,Commercial,PA,Team A,Resolved - Upheld,5,30,1
+A00265,2025-01-28,,Duplicate Claim,Standard,Commercial,CA,Team B,In Review,16,30,0
+A00266,2025-03-03,,Coding Issue,Standard,Commercial,NJ,Team B,Open,15,30,1
+A00267,2025-01-16,,Eligibility,Expedited,Medicare,TX,Team C,In Review,28,14,1
+A00268,2025-01-07,,Authorization Denial,Expedited,Commercial,TX,Team D,In Review,24,14,1
+A00269,2025-03-05,2025-03-20,Eligibility,Standard,Medicare,PA,Team B,Resolved - Overturned,15,30,1
+A00270,2025-02-28,2025-03-28,Medical Necessity,Expedited,Medicare,TX,Team A,Resolved - Overturned,28,14,1
+A00271,2025-01-08,2025-01-15,Timely Filing,Standard,Medicare,CA,Team B,Closed - Incomplete,7,30,0
+A00272,2025-03-15,2025-03-22,Authorization Denial,Expedited,Medicaid,CA,Team C,Resolved - Overturned,7,14,1
+A00273,2025-02-14,2025-03-09,Authorization Denial,Standard,Medicare,NJ,Team A,Resolved - Overturned,23,30,0
+A00274,2025-03-07,,Duplicate Claim,Standard,Medicaid,AZ,Team D,Open,19,30,1
+A00275,2025-05-05,2025-05-15,Medical Necessity,Expedited,Medicaid,NJ,Team C,Closed - Incomplete,10,14,1
+A00276,2025-02-20,,Medical Necessity,Standard,Medicaid,AZ,Team B,In Review,10,30,1
+A00277,2025-04-23,,Eligibility,Standard,Medicaid,FL,Team C,Pending Clinical Review,14,30,1
+A00278,2025-04-07,,Duplicate Claim,Expedited,Commercial,CA,Team D,In Review,29,14,1
+A00279,2025-05-12,,Authorization Denial,Standard,Medicare,NJ,Team B,Open,31,30,0
+A00280,2025-03-04,2025-04-01,Timely Filing,Expedited,Medicaid,CA,Team A,Resolved - Overturned,28,14,0
+A00281,2025-04-04,2025-04-12,Duplicate Claim,Expedited,Medicare,NY,Team D,Resolved - Overturned,8,14,0
+A00282,2025-04-16,2025-05-09,Coding Issue,Standard,Commercial,PA,Team D,Resolved - Upheld,23,30,1
+A00283,2025-02-14,,Timely Filing,Standard,Medicaid,NJ,Team A,Pending Clinical Review,1,30,1
+A00284,2025-03-06,,Eligibility,Standard,Medicare,TX,Team D,In Review,10,30,1
+A00285,2025-03-07,,Timely Filing,Standard,Medicaid,FL,Team D,In Review,3,30,0
+A00286,2025-03-02,2025-03-13,Duplicate Claim,Standard,Commercial,AZ,Team A,Resolved - Overturned,11,30,1
+A00287,2025-05-16,2025-05-21,Eligibility,Standard,Commercial,FL,Team C,Closed - Incomplete,5,30,1
+A00288,2025-05-18,,Eligibility,Standard,Medicare,TX,Team C,In Review,20,30,0
+A00289,2025-04-26,,Medical Necessity,Expedited,Medicare,TX,Team D,Pending Clinical Review,34,14,1
+A00290,2025-05-29,2025-06-05,Authorization Denial,Standard,Medicaid,AZ,Team D,Resolved - Upheld,7,30,0
+A00291,2025-03-20,,Medical Necessity,Standard,Commercial,AZ,Team D,In Review,27,30,0
+A00292,2025-01-19,2025-02-04,Authorization Denial,Standard,Medicare,PA,Team A,Closed - Incomplete,16,30,1
+A00293,2025-05-11,,Eligibility,Standard,Medicare,FL,Team B,Open,27,30,1
+A00294,2025-02-23,,Duplicate Claim,Expedited,Medicaid,TX,Team D,Pending Clinical Review,13,14,0
+A00295,2025-03-04,,Timely Filing,Standard,Medicaid,NJ,Team C,Open,27,30,1
+A00296,2025-05-13,2025-05-15,Authorization Denial,Standard,Commercial,TX,Team B,Resolved - Overturned,2,30,1
+A00297,2025-04-26,2025-05-30,Timely Filing,Standard,Medicare,TX,Team A,Resolved - Upheld,34,30,0
+A00298,2025-03-17,2025-03-27,Medical Necessity,Standard,Medicare,AZ,Team A,Resolved - Overturned,10,30,0
+A00299,2025-01-28,2025-02-25,Timely Filing,Standard,Medicaid,NJ,Team D,Resolved - Upheld,28,30,1
+A00300,2025-03-18,2025-04-03,Duplicate Claim,Standard,Commercial,AZ,Team D,Resolved - Overturned,16,30,1
+A00301,2025-01-22,2025-02-10,Duplicate Claim,Standard,Medicaid,NJ,Team A,Closed - Incomplete,19,30,0
+A00302,2025-05-27,2025-06-02,Authorization Denial,Standard,Medicaid,AZ,Team D,Resolved - Overturned,6,30,0
+A00303,2025-02-21,,Authorization Denial,Standard,Medicaid,CA,Team C,In Review,29,30,0
+A00304,2025-05-11,2025-06-07,Coding Issue,Standard,Medicare,NJ,Team D,Resolved - Upheld,27,30,0
+A00305,2025-04-07,2025-04-23,Authorization Denial,Expedited,Medicare,TX,Team D,Resolved - Overturned,16,14,0
+A00306,2025-04-09,2025-04-25,Timely Filing,Standard,Medicare,NY,Team B,Resolved - Upheld,16,30,1
+A00307,2025-03-03,2025-03-10,Eligibility,Expedited,Medicare,PA,Team B,Resolved - Upheld,7,14,0
+A00308,2025-03-04,,Timely Filing,Standard,Medicare,TX,Team A,Pending Clinical Review,32,30,1
+A00309,2025-01-21,,Eligibility,Standard,Commercial,PA,Team B,In Review,33,30,1
+A00310,2025-04-26,2025-05-26,Authorization Denial,Expedited,Medicaid,FL,Team A,Closed - Incomplete,30,14,0
+A00311,2025-04-18,,Authorization Denial,Standard,Medicare,NJ,Team A,Open,21,30,1
+A00312,2025-02-08,2025-02-14,Eligibility,Expedited,Medicaid,CA,Team D,Closed - Incomplete,6,14,0
+A00313,2025-04-19,,Duplicate Claim,Expedited,Medicare,PA,Team D,Pending Clinical Review,31,14,0
+A00314,2025-03-19,2025-03-26,Medical Necessity,Expedited,Medicaid,TX,Team D,Resolved - Overturned,7,14,1
+A00315,2025-05-19,2025-06-05,Eligibility,Standard,Medicare,FL,Team C,Resolved - Upheld,17,30,0
+A00316,2025-03-15,,Medical Necessity,Expedited,Commercial,NY,Team D,Open,6,14,0
+A00317,2025-05-19,2025-06-08,Medical Necessity,Standard,Medicaid,NY,Team D,Resolved - Upheld,20,30,1
+A00318,2025-03-20,,Coding Issue,Standard,Medicaid,CA,Team B,Open,33,30,0
+A00319,2025-02-05,,Authorization Denial,Standard,Medicare,PA,Team C,Pending Clinical Review,21,30,1
+A00320,2025-04-05,2025-04-12,Authorization Denial,Standard,Medicaid,CA,Team B,Resolved - Upheld,7,30,0
+A00321,2025-04-25,2025-05-06,Authorization Denial,Standard,Commercial,FL,Team D,Resolved - Overturned,11,30,0
+A00322,2025-03-22,,Duplicate Claim,Standard,Commercial,CA,Team A,In Review,17,30,0
+A00323,2025-01-12,2025-01-27,Eligibility,Standard,Medicaid,AZ,Team A,Resolved - Overturned,15,30,1
+A00324,2025-04-07,,Medical Necessity,Expedited,Medicare,NJ,Team A,Open,9,14,0
+A00325,2025-01-07,2025-01-20,Duplicate Claim,Standard,Medicare,NY,Team B,Resolved - Overturned,13,30,0
+A00326,2025-01-02,2025-01-11,Coding Issue,Standard,Commercial,PA,Team D,Resolved - Upheld,9,30,0
+A00327,2025-04-20,2025-05-13,Medical Necessity,Standard,Medicaid,NJ,Team D,Resolved - Upheld,23,30,1
+A00328,2025-03-17,2025-04-01,Timely Filing,Standard,Medicare,FL,Team A,Resolved - Upheld,15,30,0
+A00329,2025-05-22,,Eligibility,Standard,Medicaid,NJ,Team A,Open,13,30,0
+A00330,2025-03-26,,Timely Filing,Standard,Medicare,TX,Team C,Open,22,30,0
+A00331,2025-04-11,2025-05-08,Timely Filing,Standard,Medicare,FL,Team C,Resolved - Upheld,27,30,1
+A00332,2025-03-24,2025-04-11,Coding Issue,Standard,Medicaid,TX,Team A,Resolved - Upheld,18,30,0
+A00333,2025-02-04,2025-02-16,Duplicate Claim,Standard,Commercial,CA,Team B,Resolved - Upheld,12,30,0
+A00334,2025-03-07,2025-04-10,Medical Necessity,Standard,Medicare,CA,Team D,Resolved - Overturned,34,30,0
+A00335,2025-05-22,2025-06-25,Eligibility,Standard,Commercial,AZ,Team B,Resolved - Upheld,34,30,1
+A00336,2025-03-13,,Authorization Denial,Standard,Medicaid,FL,Team C,In Review,6,30,1
+A00337,2025-03-31,,Eligibility,Standard,Medicare,FL,Team D,Open,13,30,1
+A00338,2025-01-08,2025-01-29,Coding Issue,Expedited,Medicare,TX,Team B,Closed - Incomplete,21,14,0
+A00339,2025-01-26,2025-02-04,Authorization Denial,Standard,Medicaid,NY,Team B,Resolved - Upheld,9,30,1
+A00340,2025-01-08,2025-01-17,Timely Filing,Standard,Medicaid,TX,Team B,Resolved - Overturned,9,30,1
+A00341,2025-04-13,,Coding Issue,Standard,Commercial,TX,Team B,Pending Clinical Review,28,30,0
+A00342,2025-03-22,,Coding Issue,Expedited,Medicare,PA,Team B,Pending Clinical Review,3,14,0
+A00343,2025-03-01,2025-03-27,Timely Filing,Standard,Medicaid,NJ,Team D,Resolved - Overturned,26,30,0
+A00344,2025-05-21,,Eligibility,Expedited,Commercial,TX,Team C,In Review,33,14,1
+A00345,2025-01-09,,Timely Filing,Standard,Medicare,TX,Team D,In Review,9,30,0
+A00346,2025-01-24,2025-01-26,Duplicate Claim,Expedited,Commercial,PA,Team A,Resolved - Overturned,2,14,1
+A00347,2025-03-31,,Authorization Denial,Expedited,Medicare,PA,Team C,Open,23,14,1
+A00348,2025-04-25,2025-05-16,Eligibility,Standard,Medicare,AZ,Team B,Closed - Incomplete,21,30,1
+A00349,2025-03-29,2025-04-23,Medical Necessity,Standard,Medicare,FL,Team C,Closed - Incomplete,25,30,0
+A00350,2025-03-25,,Duplicate Claim,Standard,Medicare,NY,Team B,Open,9,30,1
+A00351,2025-01-12,,Eligibility,Expedited,Commercial,PA,Team B,In Review,12,14,0
+A00352,2025-02-19,2025-03-02,Coding Issue,Expedited,Medicaid,PA,Team C,Resolved - Overturned,11,14,0
+A00353,2025-05-18,,Authorization Denial,Standard,Medicaid,PA,Team B,Open,30,30,1
+A00354,2025-03-15,,Eligibility,Standard,Commercial,NY,Team D,Pending Clinical Review,6,30,0
+A00355,2025-05-26,,Timely Filing,Standard,Medicaid,NJ,Team C,Pending Clinical Review,9,30,1
+A00356,2025-04-29,2025-05-21,Medical Necessity,Standard,Medicaid,TX,Team A,Resolved - Overturned,22,30,0
+A00357,2025-01-21,2025-01-31,Eligibility,Standard,Medicaid,FL,Team D,Resolved - Overturned,10,30,1
+A00358,2025-01-20,2025-02-21,Eligibility,Expedited,Medicaid,NJ,Team C,Resolved - Overturned,32,14,1
+A00359,2025-01-23,2025-02-10,Eligibility,Standard,Commercial,FL,Team C,Resolved - Upheld,18,30,0
+A00360,2025-03-29,2025-04-03,Timely Filing,Standard,Medicaid,AZ,Team A,Resolved - Upheld,5,30,1
+A00361,2025-03-14,,Medical Necessity,Standard,Medicaid,PA,Team A,In Review,20,30,0
+A00362,2025-03-22,,Eligibility,Expedited,Commercial,CA,Team B,In Review,21,14,1
+A00363,2025-05-13,2025-05-15,Eligibility,Standard,Medicare,TX,Team A,Resolved - Overturned,2,30,0
+A00364,2025-03-28,,Eligibility,Standard,Medicare,NJ,Team B,Open,16,30,1
+A00365,2025-05-26,,Medical Necessity,Standard,Medicaid,NJ,Team D,In Review,26,30,1
+A00366,2025-05-05,,Authorization Denial,Standard,Commercial,PA,Team C,In Review,26,30,0
+A00367,2025-01-12,2025-02-13,Eligibility,Expedited,Commercial,TX,Team B,Resolved - Upheld,32,14,0
+A00368,2025-05-18,,Duplicate Claim,Standard,Commercial,AZ,Team A,Open,16,30,0
+A00369,2025-02-12,,Eligibility,Standard,Medicaid,NJ,Team D,Open,26,30,0
+A00370,2025-01-26,2025-01-28,Duplicate Claim,Standard,Medicare,NJ,Team B,Resolved - Overturned,2,30,1
+A00371,2025-02-23,2025-02-27,Coding Issue,Standard,Commercial,CA,Team B,Resolved - Upheld,4,30,1
+A00372,2025-05-03,2025-05-22,Authorization Denial,Standard,Commercial,AZ,Team B,Resolved - Overturned,19,30,0
+A00373,2025-01-19,2025-01-21,Timely Filing,Expedited,Commercial,NY,Team D,Resolved - Overturned,2,14,1
+A00374,2025-04-19,,Timely Filing,Standard,Medicare,PA,Team C,Open,28,30,0
+A00375,2025-03-04,,Coding Issue,Standard,Medicare,AZ,Team C,Open,14,30,0
+A00376,2025-04-16,,Duplicate Claim,Expedited,Medicare,TX,Team D,Open,16,14,1
+A00377,2025-05-13,,Authorization Denial,Expedited,Commercial,TX,Team D,In Review,10,14,1
+A00378,2025-03-28,2025-04-10,Duplicate Claim,Standard,Commercial,NJ,Team A,Resolved - Overturned,13,30,0
+A00379,2025-01-17,,Timely Filing,Standard,Commercial,TX,Team C,Open,16,30,1
+A00380,2025-01-29,2025-02-21,Coding Issue,Standard,Commercial,NY,Team C,Resolved - Upheld,23,30,1
+A00381,2025-01-01,2025-01-16,Eligibility,Expedited,Medicare,TX,Team A,Resolved - Upheld,15,14,0
+A00382,2025-05-29,2025-06-01,Authorization Denial,Expedited,Medicaid,AZ,Team A,Resolved - Upheld,3,14,0
+A00383,2025-05-25,,Authorization Denial,Standard,Medicaid,CA,Team C,Open,24,30,0
+A00384,2025-02-18,,Authorization Denial,Expedited,Medicare,TX,Team B,Open,34,14,0
+A00385,2025-04-21,2025-05-22,Duplicate Claim,Standard,Medicare,FL,Team A,Resolved - Upheld,31,30,1
+A00386,2025-04-27,2025-05-16,Coding Issue,Standard,Medicaid,FL,Team B,Closed - Incomplete,19,30,0
+A00387,2025-05-22,,Duplicate Claim,Standard,Medicare,FL,Team B,In Review,5,30,0
+A00388,2025-05-29,,Authorization Denial,Standard,Commercial,PA,Team C,Open,9,30,1
+A00389,2025-01-11,,Coding Issue,Standard,Medicare,FL,Team A,Pending Clinical Review,34,30,1
+A00390,2025-03-25,2025-04-25,Coding Issue,Standard,Medicaid,NY,Team C,Resolved - Upheld,31,30,1
+A00391,2025-01-04,,Authorization Denial,Standard,Commercial,TX,Team B,In Review,23,30,0
+A00392,2025-04-25,2025-05-21,Eligibility,Standard,Commercial,AZ,Team A,Resolved - Upheld,26,30,0
+A00393,2025-04-19,,Authorization Denial,Standard,Medicaid,CA,Team A,In Review,1,30,0
+A00394,2025-03-20,2025-04-16,Timely Filing,Expedited,Medicare,FL,Team C,Closed - Incomplete,27,14,0
+A00395,2025-01-20,2025-01-30,Duplicate Claim,Standard,Commercial,AZ,Team C,Closed - Incomplete,10,30,1
+A00396,2025-01-31,2025-03-05,Medical Necessity,Expedited,Commercial,NJ,Team B,Resolved - Overturned,33,14,0
+A00397,2025-02-06,,Coding Issue,Standard,Commercial,FL,Team B,In Review,13,30,0
+A00398,2025-01-28,2025-02-07,Coding Issue,Standard,Medicaid,NY,Team A,Closed - Incomplete,10,30,0
+A00399,2025-04-16,2025-05-04,Medical Necessity,Standard,Medicaid,CA,Team A,Closed - Incomplete,18,30,1
+A00400,2025-05-13,2025-06-04,Duplicate Claim,Standard,Medicare,TX,Team D,Resolved - Upheld,22,30,0
+A00401,2025-03-12,,Duplicate Claim,Standard,Medicare,CA,Team B,Open,16,30,1
+A00402,2025-03-09,2025-03-22,Timely Filing,Standard,Medicare,AZ,Team A,Resolved - Overturned,13,30,0
+A00403,2025-03-01,,Duplicate Claim,Standard,Medicare,AZ,Team B,In Review,16,30,1
+A00404,2025-03-22,2025-04-15,Duplicate Claim,Standard,Medicaid,NJ,Team D,Resolved - Upheld,24,30,0
+A00405,2025-04-05,2025-04-30,Authorization Denial,Standard,Medicaid,NY,Team D,Closed - Incomplete,25,30,1
+A00406,2025-04-18,,Coding Issue,Standard,Medicare,NY,Team C,In Review,22,30,1
+A00407,2025-04-25,,Eligibility,Standard,Commercial,TX,Team B,In Review,30,30,0
+A00408,2025-03-21,2025-03-25,Medical Necessity,Standard,Medicaid,NY,Team C,Resolved - Overturned,4,30,1
+A00409,2025-03-04,,Timely Filing,Standard,Medicare,CA,Team A,Open,30,30,0
+A00410,2025-05-31,2025-06-22,Timely Filing,Standard,Medicare,NY,Team A,Resolved - Upheld,22,30,1
+A00411,2025-03-27,,Coding Issue,Standard,Commercial,NJ,Team B,Open,24,30,1
+A00412,2025-01-21,2025-02-14,Timely Filing,Standard,Medicaid,PA,Team A,Resolved - Overturned,24,30,1
+A00413,2025-04-20,2025-05-08,Duplicate Claim,Standard,Medicaid,CA,Team B,Closed - Incomplete,18,30,1
+A00414,2025-04-29,2025-05-03,Authorization Denial,Standard,Commercial,NJ,Team C,Closed - Incomplete,4,30,1
+A00415,2025-03-15,,Eligibility,Expedited,Commercial,PA,Team A,Open,19,14,0
+A00416,2025-05-23,,Medical Necessity,Standard,Medicare,FL,Team D,In Review,33,30,1
+A00417,2025-05-25,,Eligibility,Standard,Medicaid,CA,Team D,In Review,5,30,1
+A00418,2025-01-30,2025-02-03,Coding Issue,Expedited,Commercial,CA,Team C,Closed - Incomplete,4,14,1
+A00419,2025-01-07,2025-01-14,Eligibility,Standard,Medicaid,CA,Team C,Resolved - Upheld,7,30,0
+A00420,2025-04-13,2025-05-11,Eligibility,Standard,Medicaid,TX,Team A,Resolved - Overturned,28,30,0
+A00421,2025-03-08,2025-03-15,Coding Issue,Standard,Medicaid,AZ,Team D,Resolved - Overturned,7,30,0
+A00422,2025-01-07,,Authorization Denial,Standard,Medicaid,NY,Team A,Pending Clinical Review,1,30,1
+A00423,2025-02-02,,Coding Issue,Standard,Medicare,TX,Team B,Pending Clinical Review,6,30,0
+A00424,2025-05-30,2025-06-20,Timely Filing,Standard,Medicare,NJ,Team C,Resolved - Overturned,21,30,0
+A00425,2025-02-08,,Eligibility,Standard,Commercial,TX,Team B,In Review,20,30,0
+A00426,2025-04-02,,Eligibility,Standard,Commercial,NY,Team A,Open,33,30,0
+A00427,2025-04-28,,Authorization Denial,Standard,Commercial,CA,Team B,In Review,19,30,0
+A00428,2025-05-12,,Authorization Denial,Standard,Commercial,AZ,Team D,In Review,22,30,0
+A00429,2025-02-10,,Timely Filing,Expedited,Medicare,CA,Team A,In Review,7,14,1
+A00430,2025-05-29,2025-06-23,Duplicate Claim,Standard,Medicaid,NY,Team D,Resolved - Upheld,25,30,0
+A00431,2025-01-08,2025-01-21,Authorization Denial,Standard,Medicare,TX,Team B,Resolved - Overturned,13,30,0
+A00432,2025-01-23,2025-02-02,Eligibility,Standard,Medicaid,TX,Team B,Resolved - Upheld,10,30,1
+A00433,2025-01-09,,Duplicate Claim,Standard,Medicare,AZ,Team B,In Review,14,30,0
+A00434,2025-03-01,2025-03-29,Eligibility,Standard,Medicaid,NY,Team A,Resolved - Overturned,28,30,0
+A00435,2025-05-21,,Eligibility,Expedited,Commercial,TX,Team A,Pending Clinical Review,16,14,0
+A00436,2025-05-15,,Eligibility,Standard,Medicaid,AZ,Team D,Open,33,30,0
+A00437,2025-02-12,,Authorization Denial,Standard,Commercial,PA,Team D,Open,2,30,0
+A00438,2025-04-26,,Medical Necessity,Standard,Commercial,NY,Team B,In Review,21,30,1
+A00439,2025-04-15,,Authorization Denial,Standard,Commercial,TX,Team A,Open,11,30,0
+A00440,2025-02-23,2025-03-06,Coding Issue,Standard,Medicare,PA,Team B,Resolved - Upheld,11,30,0
+A00441,2025-01-18,2025-02-21,Authorization Denial,Standard,Commercial,NY,Team D,Resolved - Upheld,34,30,1
+A00442,2025-05-29,2025-06-25,Authorization Denial,Standard,Medicaid,PA,Team B,Resolved - Upheld,27,30,1
+A00443,2025-02-28,2025-03-10,Duplicate Claim,Standard,Medicaid,AZ,Team C,Resolved - Upheld,10,30,0
+A00444,2025-03-22,,Authorization Denial,Standard,Commercial,NY,Team B,Open,31,30,1
+A00445,2025-04-11,,Timely Filing,Standard,Medicare,TX,Team B,Pending Clinical Review,27,30,1
+A00446,2025-05-16,,Authorization Denial,Standard,Commercial,NY,Team B,In Review,12,30,1
+A00447,2025-03-31,2025-04-25,Authorization Denial,Expedited,Commercial,AZ,Team D,Resolved - Upheld,25,14,1
+A00448,2025-02-16,2025-03-16,Medical Necessity,Expedited,Medicaid,TX,Team A,Resolved - Overturned,28,14,1
+A00449,2025-03-20,,Timely Filing,Standard,Commercial,AZ,Team C,In Review,23,30,1
+A00450,2025-04-27,2025-05-19,Timely Filing,Standard,Medicare,PA,Team B,Closed - Incomplete,22,30,1
+A00451,2025-05-10,2025-05-28,Timely Filing,Standard,Medicaid,PA,Team B,Closed - Incomplete,18,30,0
+A00452,2025-01-27,,Timely Filing,Standard,Commercial,NJ,Team A,Pending Clinical Review,1,30,0
+A00453,2025-05-04,,Medical Necessity,Expedited,Medicare,PA,Team B,Pending Clinical Review,27,14,1
+A00454,2025-05-25,2025-06-12,Timely Filing,Standard,Medicare,NJ,Team B,Resolved - Upheld,18,30,1
+A00455,2025-04-11,2025-05-10,Authorization Denial,Expedited,Medicare,FL,Team B,Resolved - Upheld,29,14,1
+A00456,2025-04-19,,Eligibility,Standard,Medicaid,NJ,Team D,Open,32,30,0
+A00457,2025-01-01,,Duplicate Claim,Standard,Commercial,NJ,Team A,Open,10,30,1
+A00458,2025-03-30,,Timely Filing,Standard,Commercial,FL,Team C,In Review,6,30,0
+A00459,2025-02-06,,Medical Necessity,Expedited,Commercial,CA,Team C,Open,6,14,0
+A00460,2025-01-28,2025-02-15,Eligibility,Expedited,Medicaid,NY,Team A,Resolved - Overturned,18,14,1
+A00461,2025-02-11,,Authorization Denial,Standard,Medicaid,NY,Team D,Open,28,30,0
+A00462,2025-04-12,,Eligibility,Standard,Commercial,CA,Team C,Open,21,30,0
+A00463,2025-01-09,2025-02-01,Coding Issue,Standard,Medicare,TX,Team D,Resolved - Overturned,23,30,1
+A00464,2025-02-17,,Authorization Denial,Standard,Medicare,CA,Team B,Pending Clinical Review,15,30,0
+A00465,2025-03-20,,Timely Filing,Standard,Medicaid,PA,Team A,Open,32,30,0
+A00466,2025-04-19,2025-05-20,Duplicate Claim,Standard,Medicare,PA,Team D,Closed - Incomplete,31,30,0
+A00467,2025-02-06,2025-03-02,Authorization Denial,Standard,Medicare,PA,Team D,Closed - Incomplete,24,30,0
+A00468,2025-05-22,2025-06-21,Eligibility,Standard,Medicare,CA,Team B,Resolved - Upheld,30,30,0
+A00469,2025-04-02,2025-04-07,Timely Filing,Expedited,Medicare,CA,Team A,Resolved - Upheld,5,14,1
+A00470,2025-05-28,,Timely Filing,Standard,Medicaid,NJ,Team D,Open,22,30,1
+A00471,2025-04-04,,Authorization Denial,Standard,Medicaid,NJ,Team A,Pending Clinical Review,9,30,0
+A00472,2025-05-27,2025-06-29,Medical Necessity,Expedited,Commercial,NJ,Team C,Resolved - Upheld,33,14,1
+A00473,2025-03-03,,Eligibility,Standard,Medicaid,CA,Team D,Pending Clinical Review,13,30,0
+A00474,2025-01-01,,Timely Filing,Expedited,Medicaid,NY,Team B,In Review,8,14,1
+A00475,2025-02-28,,Medical Necessity,Standard,Commercial,CA,Team A,In Review,20,30,1
+A00476,2025-01-27,2025-02-19,Timely Filing,Standard,Commercial,FL,Team C,Resolved - Upheld,23,30,1
+A00477,2025-03-11,,Duplicate Claim,Standard,Medicare,PA,Team D,Pending Clinical Review,5,30,1
+A00478,2025-05-24,,Duplicate Claim,Expedited,Commercial,PA,Team B,Open,29,14,1
+A00479,2025-02-27,,Authorization Denial,Standard,Medicaid,CA,Team B,Open,24,30,0
+A00480,2025-02-15,,Eligibility,Standard,Medicaid,TX,Team C,In Review,18,30,1
+A00481,2025-04-28,2025-05-29,Authorization Denial,Standard,Medicare,PA,Team B,Resolved - Upheld,31,30,0
+A00482,2025-03-08,2025-04-01,Medical Necessity,Expedited,Medicare,FL,Team D,Closed - Incomplete,24,14,1
+A00483,2025-04-13,,Timely Filing,Expedited,Medicaid,TX,Team B,In Review,2,14,1
+A00484,2025-03-11,,Medical Necessity,Expedited,Commercial,TX,Team D,Open,25,14,0
+A00485,2025-05-10,,Authorization Denial,Standard,Medicare,PA,Team D,Open,20,30,1
+A00486,2025-01-14,2025-01-24,Authorization Denial,Standard,Medicare,TX,Team C,Resolved - Upheld,10,30,0
+A00487,2025-04-06,,Eligibility,Standard,Commercial,AZ,Team B,Pending Clinical Review,33,30,1
+A00488,2025-05-01,,Duplicate Claim,Standard,Commercial,AZ,Team B,Open,9,30,1
+A00489,2025-01-16,2025-01-28,Authorization Denial,Expedited,Commercial,NJ,Team B,Resolved - Upheld,12,14,1
+A00490,2025-04-19,,Duplicate Claim,Standard,Medicaid,NJ,Team C,Open,16,30,1
+A00491,2025-01-23,2025-02-14,Medical Necessity,Standard,Medicare,FL,Team A,Resolved - Upheld,22,30,1
+A00492,2025-04-23,2025-05-23,Authorization Denial,Standard,Medicaid,AZ,Team A,Resolved - Upheld,30,30,1
+A00493,2025-05-27,2025-06-07,Eligibility,Standard,Medicaid,NY,Team C,Resolved - Overturned,11,30,1
+A00494,2025-04-18,,Timely Filing,Standard,Commercial,CA,Team A,Pending Clinical Review,18,30,0
+A00495,2025-05-19,,Timely Filing,Standard,Medicare,CA,Team B,In Review,7,30,1
+A00496,2025-05-14,,Coding Issue,Expedited,Medicare,NY,Team A,Pending Clinical Review,18,14,1
+A00497,2025-04-20,2025-05-15,Medical Necessity,Standard,Commercial,FL,Team A,Resolved - Overturned,25,30,0
+A00498,2025-02-17,,Eligibility,Standard,Medicaid,AZ,Team B,Open,5,30,0
+A00499,2025-05-06,2025-05-25,Timely Filing,Standard,Commercial,NJ,Team B,Resolved - Overturned,19,30,1
+A00500,2025-03-28,2025-04-28,Medical Necessity,Standard,Commercial,TX,Team C,Resolved - Overturned,31,30,1
+A00501,2025-03-21,,Eligibility,Expedited,Commercial,TX,Team C,Open,17,14,0
+A00502,2025-03-13,,Coding Issue,Expedited,Medicaid,FL,Team A,Open,3,14,0
+A00503,2025-04-26,,Coding Issue,Standard,Commercial,NY,Team A,In Review,32,30,0
+A00504,2025-01-15,,Coding Issue,Standard,Medicaid,TX,Team A,In Review,1,30,1
+A00505,2025-03-28,2025-04-08,Eligibility,Standard,Medicare,NY,Team A,Resolved - Upheld,11,30,0
+A00506,2025-05-28,2025-06-04,Coding Issue,Standard,Medicare,AZ,Team C,Closed - Incomplete,7,30,1
+A00507,2025-05-19,,Eligibility,Standard,Commercial,NJ,Team C,Open,33,30,0
+A00508,2025-02-26,,Eligibility,Expedited,Commercial,FL,Team C,Pending Clinical Review,13,14,1
+A00509,2025-01-16,2025-02-11,Duplicate Claim,Standard,Medicare,PA,Team C,Resolved - Overturned,26,30,1
+A00510,2025-02-14,2025-03-06,Eligibility,Standard,Medicaid,AZ,Team A,Resolved - Upheld,20,30,1
+A00511,2025-01-21,2025-02-21,Timely Filing,Standard,Medicare,NY,Team B,Resolved - Overturned,31,30,0
+A00512,2025-04-09,,Medical Necessity,Standard,Commercial,AZ,Team D,In Review,18,30,0
+A00513,2025-04-06,2025-05-06,Eligibility,Standard,Medicare,AZ,Team C,Resolved - Upheld,30,30,0
+A00514,2025-01-25,,Timely Filing,Expedited,Medicare,FL,Team A,In Review,12,14,1
+A00515,2025-05-20,,Timely Filing,Standard,Medicare,PA,Team C,In Review,12,30,1
+A00516,2025-01-28,2025-01-29,Eligibility,Expedited,Commercial,PA,Team A,Resolved - Overturned,1,14,1
+A00517,2025-01-15,,Eligibility,Standard,Medicaid,PA,Team A,In Review,21,30,0
+A00518,2025-04-28,2025-05-29,Authorization Denial,Standard,Medicaid,TX,Team B,Closed - Incomplete,31,30,1
+A00519,2025-04-15,,Eligibility,Expedited,Medicare,NJ,Team C,In Review,28,14,1
+A00520,2025-04-28,2025-05-03,Medical Necessity,Standard,Medicaid,AZ,Team A,Resolved - Upheld,5,30,0
